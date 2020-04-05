@@ -12,6 +12,7 @@ fields:
   name: title
   label: title
 pages:
+- exampleSite/content/english-speaking/Grammar/Adjectives-and-Adverbs/adverbs-and-adjectives-that-have-the-same-form.md
 - exampleSite/content/english-speaking/Grammar/Adjectives-and-Adverbs/the-adjectives.md
 - exampleSite/content/english-speaking/Grammar/Adjectives-and-Adverbs/the-adverbs.md
 - exampleSite/content/post/focus-on-example-sentences-when-learning-vocabulary-here-s-why.md
