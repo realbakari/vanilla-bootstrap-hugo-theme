@@ -1,6 +1,6 @@
 baseURL: https://example.com
 languageCode: en-us
-title: eLearn
+title: EzyEnglish
 theme: vanilla-bootstrap-hugo-theme
 googleAnalytics: UA-123456789-1
 
@@ -40,7 +40,7 @@ params:
   showActiveNav: true
   containerMaxWidth: 700px
   dateFormat: Jan 2, 2006
-  homeText: This section is created for English speaking beginners who need help to understand the basics of speaking English.  We will use very simple phrases and expressions to help you with your English speaking.
+  homeText: Speak English Fluently with Our FREE Basic English Speaking Lessons. We will use very simple phrases and expressions to help you with your English speaking.
   footerText: © 2020 Bakari Mustafa
   hideFooter: false
   katex: true
