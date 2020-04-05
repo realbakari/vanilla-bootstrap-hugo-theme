@@ -1,6 +1,6 @@
 baseURL: https://example.com
 languageCode: en-us
-title: Vanilla
+title: eLearn
 theme: vanilla-bootstrap-hugo-theme
 googleAnalytics: UA-123456789-1
 
@@ -18,7 +18,7 @@ menu:
     pre: home
     url: /
     weight: 1
-  - name: Blog
+  - name: Learn
     pre: edit
     url: /post/
     weight: 2
@@ -40,8 +40,8 @@ params:
   showActiveNav: true
   containerMaxWidth: 700px
   dateFormat: Jan 2, 2006
-  homeText: Welcome to the Vanilla theme demo. Have a look around. Maybe even eat some ice cream.
-  footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
+  homeText: This section is created for English speaking beginners who need help to understand the basics of speaking English.  We will use very simple phrases and expressions to help you with your English speaking.
+  footerText: © 2020 Bakari Mustafa
   hideFooter: false
   katex: true
 
