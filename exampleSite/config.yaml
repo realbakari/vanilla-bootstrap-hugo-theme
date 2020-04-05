@@ -19,7 +19,10 @@ menu:
     url: /
     weight: 1
   - name: Learn
-    pre: edit
+    pre: book
+    url: / english-speaking/
+  - name: Blog
+    pre: post
     url: /post/
     weight: 2
   - name: Resources
@@ -34,6 +37,7 @@ menu:
  #   pre: rss
  #   url: /index.xml
  #   weight: 5
+ 
 
 params:
   includeBootstrapJs: false
