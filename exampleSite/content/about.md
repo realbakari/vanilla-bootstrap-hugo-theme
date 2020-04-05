@@ -1,16 +1,16 @@
 ---
-date: "2014-04-09"
-title: "About"
+date: 2014-04-09
+title: About
+
 ---
+This website was created with a simple vision: To become your go-to resource to improve English speaking skills.
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+In this website, you’ll have thousands of opportunities to:
 
-It makes use of a variety of open source projects including:
+* Approach communicative language learning materials which are way more purposeful, meaningful and interesting than boring textbooks and traditional teaching methodologies. Lessons cover all aspects of the language: what the words/ phrases mean, how they are pronounced, how they are used in different contexts and so on. Examples can’t be more real and detailed.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+* Get access to a variety of English authentic resources including high-quality audios of native English speakers together with transcripts.
+* Come across advanced methodologies with learning approaches, tips, principles, techniques, and much more.
+
+I can’t wait to see how this website may impact your English learning path, passion, and experience.
