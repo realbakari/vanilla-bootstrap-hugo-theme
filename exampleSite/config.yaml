@@ -1,8 +1,8 @@
-baseURL: https://trusting-noether-9de36b.netlify.com/
+baseURL: https://ezy-english.bakarimustafa.com/
 languageCode: en-us
 title: EzyEnglish
 theme: vanilla-bootstrap-hugo-theme
-googleAnalytics: UA-123456789-1
+googleAnalytics: UA-69813719-2
 
 taxonomies:
   tag: tags
