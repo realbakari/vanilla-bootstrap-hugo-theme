@@ -1,8 +1,9 @@
----
++++
 date = 2020-04-04T14:00:00Z
 tags = ["Basic Grammar"]
 title = "What is a subject?"
----
++++
+
 The subject in a sentence is "who" or "what" you are talking about. Every sentence needs a subject. If you don't have a subject, then the sentence is incorrect and nobody will understand what you are talking about.  
   
 In other languages, the subject is not always required. Verbally, the person listening to you will understand what you are talking about, so a subject is not required. In English, a subject is always required.  
