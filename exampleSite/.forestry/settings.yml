@@ -5,10 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: exampleSite/content
-  label: Pages
+  path: exampleSite/content/english-speaking
+  label: English Lesson
   create: all
-  match: "*"
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - lesson
 - type: directory
   path: exampleSite/content/post
   label: Post
@@ -20,6 +23,11 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: md
+- type: directory
+  path: exampleSite/content
+  label: Pages
+  create: all
+  match: "*"
 upload_dir: exampleSite/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
