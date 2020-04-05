@@ -27,17 +27,11 @@ Adjective + -**ly**
 
 |Adjective|Adverb|
 |---|---|
-
 |dangerous	|dangerous**ly**|
-
 |careful	|	careful**ly**|
-
 |nice		     |   nice**ly**|
-
-|horrible	    |    horrib**ly**|
-
+|horrible	  |   horrib**ly**|
 |easy		     |   easi**ly**|
-
 |electronic	|electronical**ly**|
 
 Irregular forms:
@@ -45,9 +39,7 @@ Irregular forms:
 |Adjective|  Adverb|
 |---|---|
 |good		|well|
-
 |fast		  |      fast|
-
 |hard		   |     hard|
 
 If the adjective ends in _-y_, change _-y_ to _-i_. Then add _-ly_:
