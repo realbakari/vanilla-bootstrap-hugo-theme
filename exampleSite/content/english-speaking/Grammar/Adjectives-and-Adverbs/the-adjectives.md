@@ -1,10 +1,10 @@
 +++
-date = ""
+date = 2020-04-05T14:00:00Z
 tags = []
 title = "The adjectives"
 
 +++
-What are adjectives?
+### What are adjectives?
 
 **Adjectives** tell us **something about a person or a thing**.
 
@@ -12,7 +12,7 @@ What are adjectives?
 
 **Adjectives** can modify **nouns** or **pronouns/names**.
 
-🧑 Person			 🚘 Thing 
+🧑 Person			 🚘 Thing
 
 Mandy is a careful girl.	This is a **nice** _car_.
 
