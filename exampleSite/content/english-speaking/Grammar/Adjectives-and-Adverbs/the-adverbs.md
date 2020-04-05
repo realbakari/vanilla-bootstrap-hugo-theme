@@ -14,7 +14,6 @@ The adverbs and the adjectives in English
 | Adjective |Adverb |
 |---|---|
 |Mandy is a **careful** girl. |	Mandy **drives** carefully.|
-
 |**She** is very _careful_.	|	She **drives** carefully.|
 
 Mandy is a **careful** **_driver_**. This sentence is about Mandy, the driver, so use the **_adjective_**.
