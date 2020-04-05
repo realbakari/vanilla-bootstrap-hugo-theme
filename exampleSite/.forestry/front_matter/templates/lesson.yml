@@ -12,6 +12,7 @@ fields:
   name: title
   label: title
 pages:
+- exampleSite/content/english-speaking/Grammar/Adjectives-and-Adverbs/the-adjectives.md
 - exampleSite/content/post/focus-on-example-sentences-when-learning-vocabulary-here-s-why.md
 - exampleSite/content/post/repetition-is-the-secret-to-english-fluency.md
 - exampleSite/content/post/what-is-a-subject.md
