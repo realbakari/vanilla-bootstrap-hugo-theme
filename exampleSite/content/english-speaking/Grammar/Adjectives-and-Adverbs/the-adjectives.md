@@ -12,27 +12,25 @@ title = "The adjectives"
 
 **Adjectives** can modify **nouns** or **pronouns/names**.
 
-🧑 Person			 🚘 Thing
-
-Mandy is a careful girl.	This is a **nice** _car_.
-
-**Mandy** is _careful_.		_The car_ is **nice**.
-
-**She** is _careful_.			_It_ is **nice**.
+|🧑 Person		|	 🚘 Thing|
+|---|---|
+|Mandy is a careful girl.	|This is a **nice** _car_.|
+|**Mandy** is _careful_.	|	_The car_ is **nice**.|
+|**She** is _careful_.		|	_It_ is **nice**.|
 
 ### Where do adjectives go?
 
 An **adjective** can be put **before** **the noun**. Then it is an attribute.
 
-🧑 Person			🚘 Thing
-
-Mandy is a **careful** _girl_.	This is a **nice** _car_.
+|🧑 Person		|	🚘 Thing|
+|---|---|
+|Mandy is a **careful** _girl_.	|This is a **nice** _car_.|
 
 An **adjective** can be put **after** the **verb to be _(is)_**. This is called a predicative position.
 
-🧑 Person		🚘 Thing
-
-The girl _is_ **careful**.	This car _is_ **nice**.
+|🧑 Person	|	🚘 Thing|
+|---|---|
+|The girl _is_ **careful**.|	This car _is_ **nice**.|
 
 Adjectives can go after the following verbs:
 
