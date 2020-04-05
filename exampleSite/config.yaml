@@ -22,7 +22,7 @@ menu:
     pre: book
     url: / english-speaking/
   - name: Blog
-    pre: post
+    pre: file
     url: /post/
     weight: 2
   - name: Resources
