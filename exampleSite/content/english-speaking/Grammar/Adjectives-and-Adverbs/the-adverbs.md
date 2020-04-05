@@ -10,11 +10,12 @@ The adverbs and the adjectives in English
 
 **Adverbs** tell us **_in what way someone does something_**. Adverbs can modify verbs _(here: drive)_, adjectives or other adverbs.
 
-Adjective			       Adverb
+   
+| Adjective |Adverb |
+|---|---|
+|Mandy is a **careful** girl. |	Mandy **drives** carefully.|
 
-Mandy is a **careful** girl.	Mandy **drives** carefully.
-
-**She** is very _careful_.		She **drives** carefully.
+|**She** is very _careful_.	|	She **drives** carefully.|
 
 Mandy is a **careful** **_driver_**. This sentence is about Mandy, the driver, so use the **_adjective_**.
 
@@ -24,29 +25,30 @@ Mandy **drives** **_carefully_**. This sentence is about her way of driving, so 
 
 Adjective + -**ly**
 
-Adjective	       Adverb
+|Adjective|Adverb|
+|---|---|
 
-dangerous	dangerous**ly**
+|dangerous	|dangerous**ly**|
 
-careful		careful**ly**
+|careful	|	careful**ly**|
 
-nice		        nice**ly**
+|nice		     |   nice**ly**|
 
-horrible	        horrib**ly**
+|horrible	    |    horrib**ly**|
 
-easy		        easi**ly**
+|easy		     |   easi**ly**|
 
-electronic	electronical**ly**
+|electronic	|electronical**ly**|
 
 Irregular forms:
 
-Adjective	      Adverb
+|Adjective|  Adverb|
+|---|---|
+|good		|well|
 
-good		well
+|fast		  |      fast|
 
-fast		        fast
-
-hard		        hard
+|hard		   |     hard|
 
 If the adjective ends in _-y_, change _-y_ to _-i_. Then add _-ly_:
 
