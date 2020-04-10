@@ -46,7 +46,7 @@ params:
   containerMaxWidth: 700px
   dateFormat: Jan 2, 2006
   homeText: Speak English Fluently with Our FREE Basic English Speaking Lessons. We will use very simple phrases and expressions to help you with your English speaking.
-  footerText: © 2020 Bakari Mustafa
+  footerText: © 2020 Bakari Mustafa | Last updated 10 April 2020
   hideFooter: false
   katex: true
 
