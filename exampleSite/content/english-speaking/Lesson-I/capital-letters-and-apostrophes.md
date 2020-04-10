@@ -87,5 +87,3 @@ When a singular noun ends in _s_, we generally use _'s_.
 
 > _James's brother-in-law is German.  
 > He has a collection of Dickens's novels._
-
-Do this exercise to test your grammar again.
