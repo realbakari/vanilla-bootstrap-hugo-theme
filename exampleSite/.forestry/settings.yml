@@ -28,6 +28,11 @@ sections:
   label: Pages
   create: all
   match: "*"
+- type: directory
+  path: exampleSite/resources/download
+  label: files
+  create: all
+  match: "**/*"
 upload_dir: exampleSite/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
