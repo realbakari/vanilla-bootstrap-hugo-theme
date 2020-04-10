@@ -8,11 +8,11 @@ title = "Common and Proper Nouns"
 
 | Common |  | Proper |
 | --- | --- | --- |
-| boy | ⇒ | James |
-| river | ⇒ | Mississippi River |
+| boy | ⇒ | Gabin |
+| river | ⇒ | Ruzizi River |
 | car | ⇒ | Ford |
 | doctor | ⇒ | Doctor Jefferson |
-| town | ⇒ | Rockledge |
+| town | ⇒ | Bujumbura |
 | candy bar | ⇒ | Baby Ruth |
 
 **Hint:**Don't forget to capitalize all parts of proper nouns. Many people forget to capitalize words like _river_ and _county_ in proper nouns like _Yellow River_ and _Orange County_.
