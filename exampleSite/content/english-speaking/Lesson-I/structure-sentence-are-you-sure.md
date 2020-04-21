@@ -6,16 +6,16 @@ title = "Structure sentence - Are you sure..?"
 +++
 **I. EXAMPLES:-**
 
- ![The Sound File]( http://basicenglishspeaking.com/wp-content/uploads/2016/audio/100/001-01.mp3 )
+ ![]( https://ezy-english.bakarimustafa.com/files/audio/_structure_sentence/001-01.mp3 )[Listen]
 Are you sure?
 
-![The Sound File]( http://basicenglishspeaking.com/wp-content/uploads/2016/audio/100/001-02.mp3 )
+![]( https://ezy-english.bakarimustafa.com/files/audio/_structure_sentence/001-02.mp3 )[Listen]
 Are you sure about that?
 
-![The Sound File]( http://basicenglishspeaking.com/wp-content/uploads/2016/audio/100/001-03.mp3 )
+![]( https://ezy-english.bakarimustafa.com/files/audio/_structure_sentence/001-03.mp3 )[Listen]
 Are you sure of what you said?
 
-![The Sound File]( http://basicenglishspeaking.com/wp-content/uploads/2016/audio/100/001-04.mp3 )
+![]( https://ezy-english.bakarimustafa.com/files/audio/_structure_sentence/001-04.mp3 )[Listen]
 Are you sure that he is not coming?
 
 **II. DIALOGUES:-**
