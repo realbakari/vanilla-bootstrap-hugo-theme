@@ -7,8 +7,11 @@ title = "Structure sentence - Are you sure..?"
 **I. EXAMPLES:-**
 
 Are you sure?
+
 Are you sure about that?
+
 Are you sure of what you said?
+
 Are you sure that he is not coming?
 
 **II. DIALOGUES:-**
