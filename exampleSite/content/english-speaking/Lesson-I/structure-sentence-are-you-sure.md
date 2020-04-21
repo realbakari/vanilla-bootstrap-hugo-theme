@@ -6,13 +6,13 @@ title = "Structure sentence - Are you sure..?"
 +++
 **I. EXAMPLES:-**
 
-Are you sure?
+Are you sure? \[[listen](https://ezy-english.bakarimustafa.com/files/audio/_structure_sentence/001-01.mp3)\]
 
-Are you sure about that?
+Are you sure about that? \[[Listen](https://ezy-english.bakarimustafa.com/files/audio/_structure_sentence/001-02.mp3)\]
 
-Are you sure of what you said?
+Are you sure of what you said? \[[Listen](https://ezy-english.bakarimustafa.com/files/audio/_structure_sentence/001-03.mp3)\]
 
-Are you sure that he is not coming?
+Are you sure that he is not coming? \[[Listen](https://ezy-english.bakarimustafa.com/files/audio/_structure_sentence/001-04.mp3)\]
 
 **II. DIALOGUES:-**
 
